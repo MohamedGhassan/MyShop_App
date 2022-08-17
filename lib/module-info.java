@@ -1,0 +1,2 @@
+module shop.app {
+}
